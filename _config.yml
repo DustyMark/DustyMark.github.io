@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Mark的狐窝
+subtitle: '嗷，你找到了Max'
+author: DustyMark
+language: zh-CN
+
 description: ''
 keywords:
-author: John Doe
-language: en
 timezone: ''
 
 # URL
