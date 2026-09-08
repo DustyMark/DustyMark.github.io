@@ -21,7 +21,20 @@ menu:
 
 # friend links
 friends:
-  shuffle: false # whether to shuffle the friend links
+  shuffle: false
+  data:
+    - name: I_KUN
+      url: https://www.luogu.com.cn/user/731213
+      avatar: https://cdn.luogu.com.cn/upload/usericon/731213.png
+      desc: 这是把min当0的屑ik
+    - name: 博客2
+      url: https://blog2.com
+      avatar: https://blog2.com/avatar.jpg
+      desc: 这是第二个朋友
+    - name: 博客3
+      url: https://blog3.com
+      avatar: https://blog3.com/avatar.jpg
+      desc: 这是第三个朋友
 
 subtitle:
   typing:
