@@ -21,7 +21,7 @@ date: 2026-09-09
 ~~White Wolf King~~ GWBailang 没错，就是白狼大佬嗷，去看她的小说！
 
 [![](https://cdn.luogu.com.cn/upload/usericon/217233.png)](https://www.luogu.com.cn/user/217233)
-SqrtSecond，传奇诈骗喵，喜欢古洛谷掌握瑞克摇的神，把KaTeX和Markdown玩的出神入化orz
+SqrtSecond，传奇诈骗喵，古洛谷掌握瑞克摇的神，把KaTeX和Markdown玩的出神入化orz
 
 [![](https://cdn.luogu.com.cn/upload/usericon/510347.png)](https://www.luogu.com.cn/user/510347)
 H2O_iceflake这位也是Max元老级的好谷友，↓（嘻嘻
