@@ -17,8 +17,8 @@ date: 2026-09-09
 [![](https://cdn.luogu.com.cn/upload/usericon/731213.png)](https://www.luogu.com.cn/user/731213)
 这是把min当0的屑I_KUN/fn/fn
 
-[![](https://cdn.luogu.com.cn/upload/usericon/731213.png)](https://www.luogu.com.cn/user/559442)
-~~White Wolf King~~ GWBailang 大佬嗷
+[![](https://cdn.luogu.com.cn/upload/usericon/559442.png)](https://www.luogu.com.cn/user/559442)
+~~White Wolf King~~ GWBailang 没错，就是白狼大佬嗷，去看她的小说！
 
 [![](https://cdn.luogu.com.cn/upload/usericon/217233.png)](https://www.luogu.com.cn/user/217233)
 SqrtSecond，传奇诈骗喵，喜欢古洛谷掌握瑞克摇的神，把KaTeX和Markdown玩的出神入化orz
