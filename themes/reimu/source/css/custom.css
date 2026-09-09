@@ -99,5 +99,10 @@ html[data-theme='dark']:root {
 /* 站点标题：居中并向右偏移 */
 #logo h1 {
     text-align: center !important;
-    transform: translateX(30%) !important;
+    transform: translateX(35%) !important;
+}
+
+#subtitle-wrap {
+    text-align: center !important;
+    transform: translateX(10%) !important;  /* 单独调整 */
 }
