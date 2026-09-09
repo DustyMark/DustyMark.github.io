@@ -103,3 +103,18 @@ theme: reimu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+live2d:
+  enable: true
+  scriptFrom: local
+  model:
+    use: "33"
+  display:
+    position: left
+    offset:
+      x: 150
+      y: 40        # 负数向上，正数向下
+    width: 150
+    height: 300
+  mobile:
+    show: true
