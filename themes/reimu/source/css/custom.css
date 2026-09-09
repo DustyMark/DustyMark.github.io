@@ -95,3 +95,11 @@ html[data-theme='dark']:root {
     --highlight-addition: #7ee787 !important;
     --highlight-addition-bg: #04260f !important;
 }
+
+/* 站点标题：居中，并整体稍微向右偏移 */
+#logo {
+    display: block;
+    text-align: center;          /* 先居中 */
+    transform: translateX(8%);   /* 再整体向右偏移 8% */
+    /* 如果偏移太多或太少，调整百分比即可，比如 5% 或 12% */
+}
