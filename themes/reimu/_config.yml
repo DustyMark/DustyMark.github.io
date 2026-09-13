@@ -264,7 +264,7 @@ dark_mode:
   # true means that the dark mode is enabled by default
   # false means that the dark mode is disabled by default
   # auto means that the dark mode is automatically switched according to the system settings
-  type: auto # true | false | auto
+  type: true # true | false | auto
 # The legacy format dark_mode: {enable: true|false|auto} is still supported
 
 ########################################
