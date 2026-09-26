@@ -4,6 +4,8 @@ date: 2026-09-06 16:00:00
 tags: 屑小说
 cover: /images/Pic1.webp
 sticky: 831
+categories:
+  - 屑小说
 ---
 
 ### 霓虹之下
