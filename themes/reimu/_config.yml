@@ -765,7 +765,7 @@ player:
       id: 18420832244
       server: netease
       type: playlist
-      auto: false
+      auto: true
 
 ########################################
 # pangu.js
